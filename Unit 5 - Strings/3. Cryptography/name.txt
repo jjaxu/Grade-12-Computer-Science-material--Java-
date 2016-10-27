@@ -1,0 +1,389 @@
+---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+	Fire Emblem Awakening: Skills, Children, and An Abundance of Second Seals
+---------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
+
+Okay here is the huge ass problem. We lack Second Seals, and too many people need these goddamn seals.
+I honestly have no problem grinding for levels, skills or whatever, but what pisses me off, is not being able to carry on because I am held back by First Tier idiots.
+I do not want to bench anyone, and I also want to achieve skills quickly not only for the parents but for the kiddies too.
+
+Now this being said, we need loads and loads of Second Seals.
+Now that we've completed Chapter 13, we can have all the goddamn Master Seals we want - but what about Second Seals.
+We have three options:
+- Wait until Chapter freaking 16 so we can purchase Second Seals in the regular shop (that is a long time, and this group cannot handle that long of a wait)
+- Wait and pray for freaking Anna Clause to freaking show up with one (which RARELY HAPPENS)
+- Marry Cordelia and get Severa. Her paralogue opens up an armory where we can purchase Second Seals in the regular shop like Chapter 16
+
+Now can you guess what I want to do? Yes, you probably can. We are gonna marry Cords to Lon'qu and get ourselves the first kiddie of the lot: Severa
+HOWEVER, then I was thinking: Oh crap, what about her skills? Are we even ready to get her?
+Praise Naga, we are just about to. After quite some research, I found her best inheritance skills for her path, where Lon'qu's side is done, we just need Galeforce from Cords
+Guess what that means? That single Second Seal I got today will be our saving grace. What's more is that we can access Severa's paralogue since it is still on our continent!
+
+So here is how things are gonna work, class changes and all.
+
+o Severa (Cordelia x Lon'qu)
+o Kjelle (Sully x Stahl)
+o Cynthia (Sumia x Frederick)
+o Owain (Lissa x Ricken)
+o Inigo (Olivia x Donnel)
+o Nah (Nowi x Libra)
+o Yarne (Panne x Vaike)
+o Noire (Tharja x Henry)
+o Laurent (Miriel x Kellam)
+o Gerome (Cherche x Gregor)
+o Brady (Maribelle x Gaius)
+o Lucina (Chrom x Aster)
+o Morgan (Aster x Chrom)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------
+SOLO	Virion:
+--------------------------------
+Archer (Skill +2 lvl 1, Prescience lvl 10) > Wyvern Rider (Strength +2 lvl 1, Tantivy lvl 10) >> Griffon Rider (Deliverer lvl 5, Lancebreaker lvl 15) >
+Wyvern Lord (Quick Burn lvl 5, Swordbreaker lvl 15) > Dark Knight (Slow Burn lvl 5, Lifetaker lvl 15) > Bow Knight (Rally Skill lvl 5, Bowbreaker lvl 15) >
+Sniper (Hit Rate +20 lvl 5, Bowfaire lvl 15)
+Final Class: Sniper / Bow Knight
+Semi-Final Skills: Bowfaire, Lancebreaker, Swordbreaker, Bowbreaker, Hit Rate +20/Slow Burn
+*further class changes are possible
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------
+M	Cordelia: [v]
+--------------------------------
+PegKnight (Speed +2 lvl 1, Relief lvl 10) >> FalcoKnight (Rally Speed lvl 5, Lancefaire lvl 15) > Dark Flier (Rally Movement lvl 5, Galeforce lvl 15)
+> Hero (Sol lvl 5, Axebreaker lvl 15) > Bow Knight (Rally Skill lvl 5, Bowbreaker lvl 15) > Dark Knight ( Slow Burn lvl 5, Lifetaker lvl 15) 
+Final Class: FalcoKnight
+Semi-Final Skills: Relief, Lancefaire, Galeforce, Bowbreaker, Sol
+--------------------------------
+F	Lon'qu: [v]
+--------------------------------
+Myrmidon (Avoid +10 lvl 1, Vantage lvl 10) >> Assassin (Lethality lvl 5, Pass lvl 15) > Swordmaster (Astra lvl 5, Swordfaire lvl 15)
+> Griffon Rider (Deliverer lvl 5, Lancebreaker lvl 15) 
+Final Class: Swordmaster
+Semi-Final Skills: Vantage, Lethality, Pass, Astra, Swordfaire
+*further class changes are possible
+--------------------------------
+C	Severa:
+--------------------------------
+Inherit: Lethality, Galeforce
+
+Mercenary lvl 10 (Armsthrift, Patience, *Galeforce*, *Lethality*) 
+> Myrmidon (Avoid +10 lvl 1, Vantage lvl 10) >> Swordmaster (Astra lvl 5, Swordfaire lvl 15) >< Mercenary >> Hero (Sol lvl 5, Axebreaker lvl 15) > Dark Knight ( Slow Burn lvl 5, Lifetaker lvl 15 ) > Sorcerer ( Vengeance lvl 5 Tome Breaker lvl 15 ) > Trickster ( Lucky Seven lvl 5, Acrobat lvl 15 ) 
+Final Class: Hero
+Final Skills: Lethality, Galeforce, Astra, Vantage, Sol
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------
+M	Sully: [v]
+--------------------------------
+Cavalier (Discipline lvl 1, Outdoor Fighter lvl 10) >> Paladin (Defender lvl 5, Aegis lvl 15) > Great Knight (Luna lvl 5, Dual Guard + lvl 15)
+> Assassin (Lethality lvl 5, Pass lvl 15) > Griffon Rider (Deliverer lvl 5, Lancebreaker lvl 15) 
+Final Class: Paladin
+Semi-Final Skills: Defender, Aegis, Outdoor Fighter, Dual Guard+, Luna, Lethality, Deliverer, Lancebreaker
+*further class changes are possible
+--------------------------------
+F	Stahl: [v]
+--------------------------------
+Cavalier (Discipline lvl 1, Outdoor Fighter lvl 10) >> Paladin (Defender lvl 5, Aegis lvl 15) > Swordmaster (Astra lvl 5, Swordfaire lvl 15)
+> Assassin ( Lethality lvl 5, Pass lvl 15) > Bow Knight (Rally Skill lvl 5, Bowbreaker lvl 15) 
+Final Class: Paladin
+Semi-Final Skills: Defender, Aegis, Outdoor Fighter, Astra, Swordfaire, Lethality, Bowbreaker 
+*further class changes are possible
+--------------------------------
+C	Kjelle:
+--------------------------------
+Inherit: Astra, Luna
+
+Knight lvl 10 (Defense +2, Indoor Fighter, *Luna*, *Astra*) 
+>> General (Rally Defense lvl 5, Pavise lvl 15) >< Cavalier  (Discipline lvl 1, Outdoor Fighter lvl 10) >>
+ Paladin (Defender lvl 5, Aegis lvl 15) > Wyvern Lord ( Quick Burn lvl 5, Swordbreaker lvl 15 ) > Griffon Rider ( Deliverer lvl 5, Lancebreaker lvl 15 ) > Assassin ( Lethality lvl 5, Pass lvl 15 ) > Sniper (Hit Rate + 20 lvl 5, Bowfaire lvl 15) > Bow Knight ( Rally Skill lvl 5, Bowbreaker lvl 15 ) 
+Final Class: Bow Knight
+Final Skills: Astra, Luna, Aegis, Pavise, Bowfaire
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------
+M	Sumia: [v]
+--------------------------------
+PegKnight (Speed +2 lvl 1, Relief lvl 10) >> Dark Flier (Rally Movement lvl 5, Galeforce lvl 15) > FalcoKnight (Rally Speed lvl 5, Lancefaire lvl 15)
+> War Cleric (Rally Luck lvl 5, Renewal lvl 15) > Sage (Rally Magic lvl 5, Tomefaire lvl 15) > General (Rally Defense lvl 5, Pavise lvl 15) >
+Great Knight (Luna lvl 5, Dual Guard + lvl 15)
+Final Class: Dark Flier
+Semi-Final Skills: Renewal, Lancefaire, Galeforce, Tomefaire, Luna/Pavise/(Duel Guard + {dependent on role in battle})
+--------------------------------
+F	Frederick [v]:
+--------------------------------
+Great Knight (Discipline, Outdoor Fighter, Luna lvl 5, Dual Guard + lvl 15) > General (Rally Defense lvl 5, Pavise lvl 15) > Paladin (Defender lvl 5, Aegis lvl 15) > Griffon Rider ( Deliverer lvl 5, Lancebreaker lvl 15) > Wyvern Lord ( Quick Burn lvl 5, Swordbreaker lvl 15)
+Final Class: Great Knight
+Semi-Final Skills: Luna, Dual Guard+, Pavise, Aegis, Defender, Lancebreaker, Swordbreaker
+--------------------------------
+C	Cynthia:
+--------------------------------
+Inherit: Luna, Galeforce
+
+PegKnight lvl 10 (Speed +2, Relief, *Galeforce*, *Luna*) 
+> Knight (Defense +2 lvl 1, Indoor Fighter lvl 10) >> General (Rally Defense lvl 5, Pavise lvl 15) ><
+ Cleric (Miracle lvl 1, Healtouch lvl 10) >> War Cleric (Rally Luck lvl 5, Renewal lvl 15) ><
+ Cavalier (Discipline lvl 1, Outdoor Fighter lvl 10) >> Paladin (Defender lvl 5, Aegis lvl 15) > Griffon Rider ( Deliverer lvl 5, Lancebreaker lvl 15 ) > Wyvern Lord ( Quick Burn lvl 5, Swordbreaker lvl 15 ) > FalcoKnight ( Rally Speed lvl 5, Lancefaire lvl 15 )
+Final Class: Wyvern Lord / Paladin / Great Knight (Although I am thinking Great Knight like her Daddy to make her a beast :'D)
+Final Skills: Luna, Galeforce, Aegis, Pavis, Renewal
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------
+M	Lissa [v]:
+--------------------------------
+Cleric (Miracle lvl 1, Healtouch lvl 10) >> War Cleric (Rally Luck lvl 5, Renewal lvl 15) > Dark Flier (Rally Movement lvl 5, Galeforce lvl 15) > Sage (Rally Magic lvl 5, Tomefaire lvl 15) > Valkyrie ( Rally Resistance lvl 5, Dual Support + lvl 15 ) 
+Final Class: Sage
+Semi-Final Skills: Miracle, Healtouch, Renewal, Tomefaire, Galeforce
+*further class changes are possible
+--------------------------------
+F	Ricken: [v]
+--------------------------------
+Mage (Magic +2 lvl 1, Focus lvl 10) >> Sage (Rally Magic lvl 5, Tomefaire lvl 15) > Paladin (Defender lvl 5, Aegis lvl 15) > Dark Knight (Slow Burn lvl 5, Lifetaker lvl 15) >  Great Knight ( Luna lvl 5, Dual Guard + lvl 15) 
+Final Class: Dark Knight / Sage (Aegis helps if he becomes Dark Knight)
+Semi-Final Skills: Tomefaire, Aegis, Lifetaker, Focus, Defender/Magic +2
+*further class changes are possible
+--------------------------------
+C	Owain:
+--------------------------------
+Inherit: Tomefaire, Galeforce
+
+Myrmidon lvl 10 (Avoid +10, Vantage, *Galeforce*, *Tomefaire*) 
+>> Swordmaster (Astra lvl 5, Swordfaire lvl 15) >< Cavalier (Discipline lvl 1, Outdoor Fighter lvl 10) >> 
+Paladin (Defender lvl 5, Aegis lvl 15) [>< Mage (Magic +2 lvl 1, Focus lvl 10) >>] > Assassin ( Lethality lvl 5, Pass lvl 15 ) > Great Knight ( Luna lvl 5, Dual Guard + lvl 15 ) >  Warrior ( Rally Strength lvl 5, Counter lvl 15 ) > War Monk ( Rally Luck lvl 5, Renewal lvl 15 ) > Berserker ( Wrath lvl 5, Axefaire lvl 15 ) > Swordmaster ( Astra lvl 5, Swordfaire lvl 15 ) > Dark Knight (Slow Burn lvl 5, Lifetaker lvl 15)
+Final Class: Dark Knight / {Dread Fighter}
+Final Skills: Galeforce, Lifetaker, Tomefaire, Swordfaire, Astra/Aegis
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------
+M	Olivia: [v]
+--------------------------------
+Dancer (Luck +4 lvl 1, Special Dance lvl 10) > Myrmidon (Avoid +10 lvl 1, Vantage lvl 10) >> Swordmaster (Astra lvl 5, Swordfaire lvl 15) ><
+PegKnight (Speed +2 lvl 1, Relief lvl 10) >> Dark Flier (Rally Movement lvl 5, Galeforce lvl 15)
+Final Class: Dancer
+Semi-Final Skills: Galeforce, Astra, Swordfaire, Vantage, Special Dance
+*further class changes are possible
+--------------------------------
+F	Donnel [v]:
+--------------------------------
+Villager (Aptitude lvl 1, Underdog lvl 10) > Mercenary (Armsthrift lvl 1, Patience lvl 10) > Fighter (HP +5 lvl 1, Zeal lvl 10)
+>> Warrior (Rally Strength lvl 5, Counter lvl 15) (>< Mercenary >>) > Hero (Sol lvl 5, Axebreaker lvl 15) > Bow Knight ( Rally Skill lvl 5, Bowbreaker lvl 15 ) 
+Final Class: Hero
+Semi-Final Skills: Armsthrift, Counter, Sol, Patience, Zeal/((Aptitude while leveling))
+*further class changes are possible
+--------------------------------
+C	Inigo:
+--------------------------------
+*WOULD JUST LIKE TO MENTION THAT DONNEL IS [REALLY] NOT IDEAL FOR INIGO BUT WE WILL TRY TO MAKE THINGS WORK ANYWAY*
+^ stopped caring once bow knighted
+Inherit: Aptitude, Galeforce
+
+Mercenary lvl 10 (Armsthrift, Patience, *Galeforce*, *Aptitude*) 
+> Myrmidon (Avoid +10 lvl 1, Vantage lvl 10) >> Assassin (Lethality lvl 5, Pass lvl 15) >< Fighter (HP +5 lvl 1, Zeal lvl 10)
+>> Warrior (Rally Strength lvl 5, Counter lvl 15) >< Barbarian (Despoil lvl 1, Gamble lvl 10) >> Berserker (Wrath lvl 5, Axefaire lvl 15)
+(>< Mercenary >>) > Hero (Sol lvl 5, Axebreaker lvl 15)
+Final Class: -hero- BOW FREAKING KNIGHT
+Final Skills: Sol, Counter, Vantage, Galeforce, Lethality/Wrath/((Aptitude while leveling))
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------
+M	Nowi: [v]
+--------------------------------
+Manakete (Odd Rhythm lvl 1, Wyrmsbane lvl 15) > Mage (Magic +2 lvl 1, Focus lvl 10) >> Dark Knight (Slow Burn lvl 5, Lifetaker lvl 15)
+>< Wyvern Rider (Strength +2 lvl 1, Tantivy lvl 10) >> Griffon Rider (Deliverer lvl 5, Lance Breaker lvl 15) >
+Wyvern Lord (Quick Burn lvl 5, Swordbreaker lvl 15)
+Final Class: Manakete
+Semi-Final Skills:  Lancebreaker, Wyrmsbane, Lifetaker, Deliverer, Swordbreaker
+*further class changes are possible
+--------------------------------
+F	Libra: [v]
+--------------------------------
+War Monk (Healtouch, Miracle, Rally Luck lvl 5, Renewal lvl 15) > Dark Knight (Slow Burn lvl 5, Lifetaker lvl 15) > Sorcerer (Vengeance lvl 5, Tome Breaker lvl 15)
+Final Class: War Monk
+Semi-Final Skills: Miracle, Renewal, Lifetaker, Vengeance, Healtouch/Slowburn (depending on final class)
+*further class changes are possible
+--------------------------------
+C	Nah:
+--------------------------------
+Inherit: Renewal, Swordbreaker
+
+Manakete lvl 10 (Odd Rhythm, Wyrmsbane lvl 15, *Swordbreaker*, *Renewal*) 
+> Cleric (Miracle lvl 1, Healtouch lvl 10) > Dark Mage (Hex lvl 1, Anathema lvl 10) >> Sorcerer (Vengeance lvl 5, Tomebreaker lvl 15) > Dark Knight ( Slow Burn lvl 5, Lifetaker lvl 15 ) 
+Final Class: Manakete
+Final Skills: Vengeance, Renewal, Swordbreaker, Miracle, Wyrmsbane
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------
+M	Panne: [v]
+--------------------------------
+Taguel (Even Rhythm lvl 1, Beastbane lvl 15) > Thief (Locktouch lvl 1, Movement +1 lvl 10) >> 
+Assassin (Lethality lvl 5, Pass lvl 15)  [>< Wyvern Rider (Strength +2 lvl 1, Tantivy lvl 10) >>) >
+Wyvern Lord (Quick Burn lvl 5, Swordbreaker lvl 15) > Griffon Rider (Deliverer lvl 5, Lancebreaker, lvl 15)
+Final Class: Taguel
+Semi-Final Skills: Beastbane, Swordbreaker, Lancebreaker, Lethality, Deliverer
+*further class changes are possible
+--------------------------------
+F	Vaike: [v]
+--------------------------------
+Fighter (HP +5 lvl 1, Zeal lvl 10) >> Warrior (Rally Strength lvl 5, Counter lvl 15) > Hero (Sol lvl 5, Axebreaker lvl 15) ><
+>> Berserker (Wrath lvl 5, Axefaire lvl 15) > Assassin ( Lethality lvl 5, Pass lvl 15) 
+Final Class: Berserker
+Semi-Final Skills: Counter, Sol, Wrath, Axefaire,  Lethality 
+--------------------------------
+C	Yarne:
+--------------------------------
+Inherit: Wrath, Lethality (WAS SUPPOSED TO BE LANCEBREAKER)
+
+Taguel lvl 10 (Even Rhythm, Beastbane lvl 15, *Wrath* *Lethality*) 
+> Fighter (HP +5 lvl 1, Zeal lvl 10) >> Warrior (Rally Strength lvl 5, Counter lvl 15) > Hero (Sol lvl 5, Axebreaker lvl 15) > Trickster ( Lucky Seven lvl 5, Acrobat lvl 15 )
+Final Class: Taguel
+Final Skills: Wrath, Counter, Sol, Lethality, Beastbane
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------
+M	Tharja: [v]
+--------------------------------
+Dark Mage (Hex lvl 1, Anathema lvl 10) >> Dark Knight (Slow Burn lvl 5, Lifetaker lvl 15) > General (Rally Defense lvl 5, Pavise lvl 15) >
+Sniper (Hit Rate +20 lvl 5, Bowfaire lvl 15) > Sorcerer (Vengeance lvl 5, Tomebreaker lvl 15)
+Final Class: Sorcerer
+Semi-Final Skills: Lifetaker, Pavise, Hit Rate +20, Vengeance, Tomebreaker
+--------------------------------
+F	Henry: [v]
+--------------------------------
+Dark Mage (Hex lvl 1, Anathema lvl 10) >> Dark Knight (Slow Burn lvl 5, Lifetaker lvl 15)  > Berserker (Wrath lvl 5, Axefaire lvl 15) 
+> Assassin (Lethality lvl 5, Pass lvl 15) > Sorcerer (Vengeance lvl 5, Tomebreaker lvl 15)
+Final Class: Sorcerer
+Semi-Final Skills: Lifetaker, Vengeance, Tomebreaker, Wrath, Lethality
+--------------------------------
+C	Noire:
+--------------------------------
+Inherit: Wrath, Pavise
+
+Archer lvl 10 (Skill +2, Prescience, *Pavise*, *Wrath*) 
+> Dark Mage (Hex lvl 1, Anathema lvl 10) >> Dark Knight (Slow Burn lvl 5, Lifetaker lvl 15) > Sorcerer (Vengeance lvl 5, Tomebreaker lvl 15) >
+Assassin (Lethality lvl 5, Pass lvl 15) [>< Archer >>] > Sniper (Hit Rate +20 lvl 5, Bowfaire lvl 15) / Trickster (Lucky Seven lvl 5, Acrobat lvl 15) > Great Knight ( Luna lvl 5, Dual Guard + lvl 15 ) > War Cleric ( Rally Luck lvl 5, Renewal lvl 15 ) > Valkyrie ( Rally Resistance lvl 5, Dual Support + lvl 15 ) > Bow Knight ( Rally Skill lvl 5, Bowbreaker lvl 15 ) > Sniper ( Hit Rate + 20 lvl 5, Bowfaire lvl 15 ) 
+Final Class: Sniper / Assassin / Trickster? / Sorcerer (Because of the magic boosts)
+Final Skills if Sniper/Assassin: Wrath, Pavise, Bowfaire, Vengeance/Lethality, Lifetaker/Renewal
+Final Skills if Trickster: Wrath, Pavise, Acrobat, Pass, Renewal/Lifetaker
+Final Skills if Sorcerer: Wrath, Pavise, Lifetaker, Vengeance, Lethality
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------
+M	Miriel: [v]
+--------------------------------
+Mage (Magic +2 lvl 1, Focus lvl 10) >> Dark Knight (Slow Burn lvl 5, Lifetaker lvl 15) > Sage (Rally Magic lvl 5, Tomefaire lvl 15) >
+War Cleric (Rally Luck lvl 5, Renewal lvl 15) > Sorcerer (Vengeance lvl 5, Tomebreaker lvl 15)
+Final Class: Sorcerer
+Semi-Final Skills: Tomefaire, Lifetaker, Vengeance, Tomebreaker, Renewal
+--------------------------------
+F	Kellam: [v]
+--------------------------------
+Knight (Defense + 2 lvl 1, Indoor Fighter lvl 10) > Thief (Locktouch lvl 1, Mov +1 lvl 10) >> Great Knight (Luna lvl 5, Dual Guard + lvl 15) >
+War Monk (Rally Luck lvl 5, Renewal lvl 15) > General (Rally Defense lvl 5, Pavise lvl 15)
+Final Class: General
+Semi-Final Skills: Defense +2, Mov +1, Luna, Renewal, Pavise
+--------------------------------
+C	Laurent:
+--------------------------------
+Inherit: Pavise, Renewal
+
+Mage lvl 10 (Magic +2, Focus, *Renewal*, *Pavise*)
+> Barbarian (Despoil lvl 1, Gamble lvl 10) >> Warrior (Rally Strength lvl 5, Counter lvl 15) > Great Knight (Luna lvl 5, Dual Guard + lvl 15) >
+Dark Knight (Slow Burn lvl 5, Lifetaker lvl 15) > Sorcerer (Vengeance lvl 5, Tomebreaker lvl 15) > Dark Knight ( Slow Burn lvl 5, Lifetaker lvl 15 ) > Assassin ( Lethality lvl 5, Pass lvl 15 ) > Berserker ( Wrath lvl 5, Axefaire lvl 15 ) > Trickster ( Lucky Seven lvl 5, Acrobat lvl 15 ) 
+Final Class: Sorcerer / Dark Knight 
+Final Skills: Pavise, Counter, Renewal/Lifetaker, Luna, Vengeance
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------
+M	Cherche: [v]
+--------------------------------
+Wyvern Rider (Strength +2 lvl 1, Tantivy lvl 10) >> Griffon Rider (Deliverer lvl 5, Lancebreaker lvl 15) > War Cleric (Rally Luck lvl 5, Renewal lvl 15) >
+Valkyrie (Rally Resistance lvl 5, Dual Support + lvl 15) > Wyvern Lord (Quick Burn lvl 5, Swordbreaker lvl 15)
+Final Class: Wyvern Lord
+Semi-Final Skills: Swordbreaker, Renewal, Dual Support +, Deliverer, Lancebreaker
+--------------------------------
+F	Gregor: [v]
+--------------------------------
+Mercenary (Armsthrift lvl 1, Patience lvl 10) > Barbarian (Despoil lvl 1, Gamble lvl 10) > Myrmidon (Avoid +10 lvl 1, Vantage lvl 10) >>
+Swordmaster (Astra lvl 5, Swordfaire lvl 15) > Berserker (Wrath lvl 5, Axefaire lvl 15) > Hero (Sol lvl 5, Axebreaker lvl 15)
+Final Class: Hero
+Semi-Final Skills: Sol, Vantage, Counter, Axefaire/Swordfaire, Wrath ((Despoil for money / Astra for hits))
+--------------------------------
+C	Gerome:
+--------------------------------
+Inherit: Axefaire, Renewal
+
+Wyvern Rider (Strength +2, Tantivy, *Renewal*, *Axefaire*)
+> Myrmidon (Avoid +10 lvl 1, Vantage lvl 10) >> Swordmaster (Astra lvl 5, Swordfaire lvl 15) > Bow Knight (Rally Skill lvl 5, Bowbreaker lvl 15) >
+Warrior (Rally Strength lvl 5, Counter lvl 15) > Hero (Sol lvl 5, Axebreaker lvl 10) > Assassin ( Lethality lvl 5, Pass lvl 15 ) > Berserker ( Wrath lvl 5, Axefaire lvl 15 ) > Wyvern Lord (Quick Burn lvl 5, Swordbreaker lvl 15)
+Final Class: Wyvern Lord
+Final Skills: Axefaire, Swordbreaker, Bowbreaker, Vantage+Sol OR Renewal+Astra, Lethality
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------
+M	Maribelle [v]:
+--------------------------------
+Troubadour (Reistance +2 lvl 1, Demoiselle lvl 10) >> War Cleric (Rally Luck lvl 5, Renewal lvl 15) >  Sage (Rally Magic lvl 5, Tomefaire lvl 15) >
+Dark Knight (Slow Burn lvl 5, Lifetaker lvl 15) > Dark Flier (Rally Movement lvl 5, Galeforce lvl 15) > Valkyrie (Rally Resistance lvl 5, Dual Support + lvl 15)
+Final Class: Valkyrie / Dark Flier
+Semi-Final Skills: Galeforce, Renewal, Tomefaire, Lifetaker, Duel Support +/Slow Burn
+--------------------------------
+F	Gaius [v]:
+--------------------------------
+Thief (Locktouch lvl 1, Movement +1 lvl 10) > Myrmidon (Avoid +10 lvl 1, Vantage lvl 10) >> Swordmaster (Astra lvl 5, Swordfaire lvl 15) >
+Hero (Sol lvl 5, Axebreaker lvl 15) > Trickster (Lucky Seven lvl 5, Acrobat lvl 15) > Assassin (Lethality lvl 5, Pass lvl 15)
+Final Class: Assassin
+Offensive Final Skills: Vantage, Sol, Swordfaire, Lucky Seven, Lethality/Astra
+Speed Thief Skills: Lucky Seven, Pass, Acrobat, Swordfaire, Lethality/Vantage
+--------------------------------
+C	Brady:
+--------------------------------
+Inherit: Lethality, Galeforce
+
+ Priest lvl 10 (Miracle, Healtouch, *Galeforce*, *Lethality*) 
+> Myrmidon (Avoid +10 lvl 1, Vantage lvl 10) >> Swordmaster (Astra lvl 5, Swordfaire lvl 15) > Hero (Sol lvl 5, Axebreaker lvl 15) >
+Warrior (Rally Strength lvl 5, Counter lvl 15) > Great Knight ( Luna lvl 5, Dual Guard + lvl 15 ) > Dark Knight ( Slow Burn lvl 5, Lifetaker lvl 15 ) > Trickster ( Lucky Seven lvl 5, Acrobat lvl 15 ) > Paladin ( Defender lvl 5, Aegis lvl 15 ) > War Monk (Rally Luck lvl 5, Renewal lvl 15)
+Final Class: War Monk
+Final Skills: Lethality/Astra, Vantage, Renewal, Galeforce, Counter, Sol
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------
+M	Aster [v]:
+--------------------------------
+Tactician (Veteran lvl 1, Solidarity lvl 10) > Myrmidon (Avoid +10 lvl 1, Vantage lvl 10) >> Swordmaster (Astra lvl 5, Swordfaire lvl 15) >
+Dark Knight (Slow Burn lvl 5, Lifetaker lvl 15) > Dark Flier (Rally Movement lvl 5, Galeforce lvl 15) > Grandmaster (Ignis lvl 5, Rally Spectrum lvl 15)
+Final Class: Grandmaster
+Semi-Final Skills: Veteran/Vantage, Lifetaker, Astra, Ignis, Galeforce
+
+She actually went through Lucina's path + extra (i.e. Valk)
+*further class changes are possible
+--------------------------------
+F	Chrom [v]:
+--------------------------------
+Lord (Dual Strike + lvl 1, Charm lvl 10) > Cavalier (Discipline lvl 1, Outdoor Fighter lvl 10) >> Paladin (Defender lvl 5, Aegis lvl 15) > Great Knight 
+(Luna lvl 5, Dual Guard + lvl 15 ) > 
+Great Lord (Aether lvl 5, Rightful King lvl 15)
+Final Class: Great Lord
+Semi-Final Skills: Dual Strike +, Luna, Aegis, Aether, Rightful King
+
+You freaking suck Chrom but idec
+--------------------------------
+C	Lucina [v]:
+--------------------------------
+Inherit: Galeforce
+
+Lord lvl 10 (Dual Strike +, Charm, Aether, *Galeforce*) 
+> Tactician (Veteran lvl 1, Solidarity lvl 10) > Mercenary (Armsthrift lvl 1, Patience lvl 10) > Myrmidon (Avoid +10 lvl 1, Vantage lvl 10) >> 
+Swordmaster (Astra lvl 5, Swordfaire lvl 15) > Hero (Sol lvl 5, Axebreaker lvl 15) > Assassin (Lethality lvl 5, Pass lvl 15) >
+Great Knight (Luna lvl 5, Dual Guard + lvl 15) > Paladin (Defender lvl 5, Aegis lvl 15) > General (Rally Defense lvl 5, Pavise lvl 15) >
+Grandmaster (Ignis lvl 5, Rally Spectrum lvl 15) > Great Lord (Aether lvl 5, Rightful King lvl 15)
+Final Class: Great Lord
+Wanted Skills: Galeforce, Aether, Lethality, Aegis, Pavise, Sol, Luna, Astra, Ignis, Rightful King, Armsthrift
+Master Skill Set: Aether, Rightful King, Aegis, Pavise, Galeforce/Ignis (/Astra/Luna/Sol/Lethality)
+
+See Aster
+
+--------------------------------
+C	Morgan:
+--------------------------------
+Inherit: Rightful King, Galeforce
+
+Tactician lvl 10 (Veteran, Solidarity, *Galeforce*, *Rightful King*) 
+> Mercenary (Armsthrift lvl 1, Patience lvl 10) > Myrmidon (Avoid +10 lvl 1, Vantage lvl 10) >> Swordmaster (Astra lvl 5, Swordfaire lvl 15) >
+Hero (Sol lvl 5, Axebreaker lvl 15) > Assassin (Lethality lvl 5, Pass lvl 15) > Great Knight (Luna lvl 5, Dual Guard + lvl 15) >
+Paladin (Defender lvl 5, Aegis lvl 15) > General (Rally Defense lvl 5, Pavise lvl 15) > Dark Knight (Slow Burn lvl 5, Lifetaker lvl 15) >
+Grandmaster (Ignis lvl 5, Rally Spectrum lvl 15)
+Final Class: Grandmaster / Dread Fighter
+Wanted Skills: Galeforce, Lethality, Aegis, Pavise, Sol, Luna, Astra, Ignis, Rightful King, Lifetaker, Armsthrift
+Master Skill Set: Rightful King, Galeforce, Ignis, Lifetaker, Astra/Sol/Luna 
+
+See Aster

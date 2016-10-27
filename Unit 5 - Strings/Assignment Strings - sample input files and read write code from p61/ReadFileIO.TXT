@@ -1,0 +1,63 @@
+//Java Standard Output
+//Java’s standard output works almost identical to the Holt Software classes. It is done using the System.out object which contains the //print and println methods. However, Java’s own console output does not support any form of output formatting whatsoever. i.e. the print //methods take only one parameter: the data that is to be output. If you wish to use output formatting, you may elect to write your own //overridden print methods that support it.
+
+
+//Reference Page 61 in your notes; USING STANDARD IO versus Ready for Java Classes
+
+import java.io.*;
+import hsa.Console;
+
+public class FileFibonacciIO
+{
+    static Console c;
+    final static int MAX = 50;
+
+    static public void main (String args [])
+        throws IOException
+    {
+        c = new Console ();
+        long fibonacci [];
+        int i;
+        String fileName, line;
+
+        fibonacci = new long [MAX];
+
+        fibonacci [0] = 1;
+        fibonacci [1] = 1;
+        for (i = 2 ; i < MAX ; i++)
+            fibonacci [i] = fibonacci [i   1] +
+                fibonacci [i   2];
+
+        // *********************************
+	//     Writing to a file
+        c.println ("File name to save #? ");
+        fileName = c.readLine ();
+        PrintWriter output;
+        output = new PrintWriter
+            (new FileWriter (fileName));
+        for (i = 0 ; i < MAX ; i++)
+            output.println (fibonacci [i]);
+        output.close ();
+        c.println ("Done!\n\n");
+
+        // *********************************
+  	//     Reading from a file
+        c.println ("File name of longs to read? ");
+        fileName = c.readLine ();
+        BufferedReader input;
+        input = new BufferedReader
+            (new FileReader (fileName));
+        line = input.readLine ();
+        i = 0;
+        while (line != null)
+        {
+            fibonacci [i] = Long.parseLong (line);
+            c.print (fibonacci [i], 20);
+            i++;
+            line = input.readLine ();
+
+        }
+        input.close ();
+        c.println ("\nDone!");
+    }
+}

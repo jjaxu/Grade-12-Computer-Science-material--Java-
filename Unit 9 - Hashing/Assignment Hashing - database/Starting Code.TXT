@@ -1,0 +1,99 @@
+/*Class DBRecord
+Purpose: to create a movie record containing an id, title, type, cost, distance, and date
+
+Fields:
+id              -record id
+title           -record title
+type            -type of movie
+cost            -cost
+dist            -distance to travel
+date            -date of record
+
+Methods:
+constructor     -creates a DBRecord given all the information
+toString        -aligns information in a string
+rightPad        -pads a string with spaces on the leftto a certain width
+*/
+
+class DBRecord
+{
+    public int id;
+    protected String title;
+    protected String type;
+    protected double cost;
+    protected String dist;
+    protected String date;
+
+    /*Constructor
+    Purpose:creates a DBRecord given all the information
+    Parameters:id,title, type, cost, dist, date
+    Return:none*/
+
+    public DBRecord (int x, String tit, String typ, double cos, String dis, String dat)
+    {
+        id = x;
+        title = tit;
+        type = typ;
+        cost = cos;
+        dist = dis;
+        date = dat;
+    }
+
+
+    /*Method toString
+    Purpose:aligns information in a string
+    Parameters:none
+    Return:the string of the record's information*/
+
+    public String toString ()
+    {
+        return (rightPad ("" + id, 8) + rightPad (title, 50) + rightPad (type, 10)
+                + rightPad ("" + cost, 8) + rightPad (dist, 6) + rightPad (date, 12));
+    }
+
+
+
+
+
+
+
+
+    /*Method rightPad
+    Purpose:pads a string with spaces on the right to a certain width
+    Parameters:string to pad,width
+    Return: the string with a correct number of characters*/
+
+    public static String rightPad (String x, int w)
+    {
+        String s = "" + x;
+        while (s.length () < w)
+            s = s + " ";
+        return s;
+    }
+}
+
+
+
+
+/* FOR YOUR BENEFIT */
+
+/*Method h
+      Purpose:returns the hash f()
+      Parameters:id, counter
+      Return:the hash function*/
+
+    public int h (int k, int i)
+    {
+        return (k % this.physicalSize + i * h2 (k)) % this.physicalSize;
+    }
+
+
+/*Method h2
+  Purpose:returns the double hashing f()
+      Parameters:id
+      Return:double hash function*/
+
+    public int h2 (int k)
+    {
+        return (this.physicalSize - 2) - (k % (this.physicalSize - 2));
+    }

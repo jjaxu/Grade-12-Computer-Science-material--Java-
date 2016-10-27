@@ -1,0 +1,51 @@
+import hsa.*;
+//Reference Page 61 in your notes
+
+public class FileFibonacciHSA
+{
+    static Console c;
+    final static int MAX = 50;
+
+    static public void main (String args [])
+    {
+        c = new Console ();
+        long fibonacci [];
+        int i;
+        String fileName, line;
+
+        fibonacci = new long [MAX];
+
+        fibonacci [0] = 1;
+        fibonacci [1] = 1;
+        for (i = 2 ; i < MAX ; i++)
+            fibonacci [i] = fibonacci [i   1] +
+                fibonacci [i   2];
+
+        // *********************************
+	//     Writing to a file
+	c.println ("File name to save #? ");
+        fileName = c.readLine ();
+        TextOutputFile output;
+        output = new TextOutputFile (fileName);
+        for (i = 0 ; i < MAX ; i++)
+            output.println (fibonacci [i]);
+        output.close ();
+        c.println ("Done!\n\n");
+
+        // *********************************
+	//     Reading from a file
+        c.println ("File name of longs to read? ");
+        fileName = c.readLine ();
+        TextInputFile input;
+        input = new TextInputFile (fileName);
+        i = 0;
+        while (!input.eof())
+        {
+            fibonacci [i] = input.readLong ();
+            c.print (fibonacci [i], 20);
+            i++;
+        }
+        input.close ();
+        c.println ("\nDone!");
+    }
+}

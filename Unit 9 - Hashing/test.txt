@@ -1,0 +1,10 @@
+2962,Torque,Action,40,15,16/01/2004
+2960,Need For Speed Underground,Game,70,15,28/12/2003
+2958,Freaky Friday,Family,16.5,15,26/12/2003
+2949,Dumb And Dumberer,Comedy,22,15,25/12/2003
+2952,Monsters Inc,Family,16.5,15,25/12/2003
+2941,Freaky Friday,Comedy,5,15,23/12/2003
+2932,Pirates Of The Caribbean,Action ,29.99,15,19/12/2003
+2930,Terminator 2,Action,9.99,15,19/12/2003
+2929,Gothika,Horror,42.11,15,18/12/2003
+2927,Lord Of The Rings Return Of The King,Sci Fi,75,15,17/12/2003

@@ -1,0 +1,359 @@
+// The "MatrixTest" class.
+import java.awt.*;
+import hsa.Console;
+
+//***************************************************************
+// Author: Jackie Xu
+// Date: 11/1/2015
+// Purpose: To learn how to use 2D arrays
+//***************************************************************
+
+public class MatrixTest
+{
+    static Console c;           // The output console
+    
+    public static void main (String[] args)
+    {
+	c = new Console ();
+	Matrix testMatrix = new Matrix(4,7);
+	c.println("Rows: " + testMatrix.rows);
+	c.println("Columns: " + testMatrix.cols);
+	
+	c.println();        
+	testMatrix.print(c);
+	
+	c.println();
+	testMatrix.get(c);
+	
+	testMatrix.print(c);
+	c.println("Square? " + testMatrix.square());
+	
+	c.println();
+	testMatrix.columnAverage().print(c);
+	
+	c.println();
+	testMatrix.minor(1,2).print(c);  
+	
+	c.println();
+	c.println(testMatrix.determinant());  
+	// Place your program here.  'c' is the output console
+    } // main method
+    
+
+} // MatrixTest class
+
+//***************************************************************
+// Author: Jackie Xu
+// Date: 11/1/2015
+// Purpose: To create a class that allows manipulations with matrices using 2D arrays
+// Fields:
+//      element - 2D double array
+//      rows - integer that represents the number of rows
+//      cols - integer that represents the number of columns
+// Methods:
+/*      HERE
+
+*/
+//***************************************************************
+
+class Matrix
+{
+    protected double [][] element;
+    protected int rows, cols;
+    
+    public static boolean checkLow(int given, int rangeLow)
+    {
+	boolean result = false;
+	
+	if (given >= rangeLow)
+	{
+	    result = true;
+	}
+	return result;
+    }
+
+    //***************************************************************
+    // Author: Jackie Xu
+    // Date: 11/1/2015
+    // Purpose: Most specific constructor for object
+    // Parameters: rows, columns and the value
+    // Return/Output: -
+    //***************************************************************
+    
+    public Matrix(int row, int col, double value)
+    {
+	this.rows = row;
+	this.cols = col;
+	
+	this.element = new double [row][col];
+	for (int count = 0; count < row; count++)
+	{
+	    for (int countTwo = 0; countTwo < col; countTwo++)
+	    {
+		element [count][countTwo] = value;
+	    }
+	}
+	
+    }
+    //***************************************************************
+    // Author: Jackie Xu
+    // Date: 11/1/2015
+    // Purpose: Constructor that's less specific, it only takes 2 parameters
+    // Parameters: rows, columns
+    // Return/Output: -
+    //***************************************************************
+    
+    public Matrix (int row, int col)
+    {
+	this(row, col, 0);
+    }
+    //***************************************************************
+    // Author: Jackie Xu
+    // Date: 11/1/2015
+    // Purpose: simple constructor that creates a square matrix given the size
+    // Parameters: size
+    // Return/Output: -
+    //***************************************************************
+    
+    public Matrix (int size)
+    {
+	this(size, size, 0);
+    }
+    
+    //***************************************************************
+    // Author: Jackie Xu
+    // Date: 11/1/2015
+    // Purpose: simplest constructor that creates an empty matrix
+    // Parameters: -
+    // Return/Output: -
+    //***************************************************************
+    
+    public Matrix()
+    {
+	this(0,0,0);
+    }
+
+    //***************************************************************
+    // Author: Jackie Xu
+    // Date: 11/1/2015
+    // Purpose: prints the matrix for a visual
+    // Parameters: output console
+    // Return/Output: -
+    //***************************************************************
+    
+    public void print(Console c)
+    {
+	for (int count = 0; count < this.rows; count++)
+	{
+	    for (int countTwo = 0; countTwo < this.cols; countTwo++)
+	    {
+		c.print(this.element [count][countTwo] + " ");
+	    }
+	    c.println();
+	}
+    }
+    
+    //***************************************************************
+    // Author: Jackie Xu
+    // Date: 11/1/2015
+    // Purpose: gets the matrix properties from user
+    // Parameters: Console c
+    // Return/Output: -
+    //***************************************************************
+    
+    public void get(Console c)
+    {
+	int row = 0;
+	int column = 0;
+	
+	c.print("Please enter the number of rows: ");
+	row = c.readInt();
+	
+	while (Matrix.checkLow(row, 0) == false)
+	{
+	    c.println("Invalid input! The row must be positive!");
+	    c.print("Please re-enter the number of rows: ");
+	    row = c.readInt();
+	}
+	
+	c.println();
+	c.print("Please enter the number of columns: ");
+	column = c.readInt();
+	
+	while (Matrix.checkLow(column, 0) == false)
+	{
+	    c.println("Invalid input! The column must be positive!");
+	    c.print("Please re-enter the number of columns: ");
+	    column = c.readInt();
+	}
+	
+	this.rows = row;
+	this.cols = column;
+	
+	this.element = new double [row][column];
+
+	for (int count = 0; count < this.rows; count++)
+	{
+	    for (int countTwo = 0; countTwo < this.cols; countTwo++)
+	    {
+		c.print("Please enter the value at row " + (count + 1) + ", column " + (countTwo + 1) + ": ");
+		this.element[count][countTwo] = c.readDouble();
+		
+	    }
+	    c.println();
+	}        
+	
+    }
+    
+    //***************************************************************
+    // Author: Jackie Xu
+    // Date: 11/1/2015
+    // Purpose: checks whether if the matrix is square
+    // Parameters: -
+    // Return/Output: true or false
+    //***************************************************************
+    
+    public boolean square()
+    {
+	boolean isSquare = false;
+	if (this.rows == this.cols)
+	    isSquare = true;
+	return isSquare;
+    }
+
+    //***************************************************************
+    // Author: Jackie Xu
+    // Date: 11/1/2015
+    // Purpose: checks whether if a given matrix is the same size as the current one
+    // Parameters: Another matrix object
+    // Return/Output: true or false
+    //***************************************************************
+    
+    public boolean sameSize(Matrix given)
+    {
+	boolean isSameSize = false;
+	if (this.rows == given.rows && this.cols == given.cols)
+	    isSameSize = true;
+	return isSameSize;
+    }
+    //***************************************************************
+    // Author: Jackie Xu
+    // Date: 11/1/2015
+    // Purpose: calculates the column average in the given matrix
+    // Parameters: -
+    // Return/Output: Matrix with one row
+    //***************************************************************
+    
+    public Matrix columnAverage()
+    {
+	Matrix result = new Matrix (1,this.cols);
+	double sum = 0;
+	int countRow, countCol = 0;
+	
+	for (countCol = 0; countCol < this.cols; countCol++)
+	{
+	    for (countRow = 0; countRow < this.rows; countRow++)
+	    {
+		sum = sum + this.element[countRow][countCol];
+	    }
+	    result.element[0][countCol] = sum / this.rows;
+	    sum = 0;
+	} 
+	return result;
+    }
+    
+    //***************************************************************
+    // Author: Jackie Xu
+    // Date: 11/7/2015
+    // Purpose: Returns the minor of the matrix
+    // Parameters: row and column to be removed
+    // Return/Output: Matrix object
+    //***************************************************************
+
+    public Matrix minor (int row, int col)
+    {
+	Matrix result;
+	
+	if (row >= 1 && row <= this.rows && col >= 1 && col <= this.cols)
+	{
+	    result = new Matrix (this.rows - 1, this.cols - 1);
+	    
+	    for (int count = 0; count < result.rows; count++)
+	    {                    
+		for (int countTwo = 0; countTwo < result.cols; countTwo++)
+		{
+		    if (count < row - 1)
+		    {
+			if (countTwo < col - 1)
+			{
+			    result.element[count][countTwo] = this.element[count][countTwo];
+			}
+			else
+			{
+			    result.element[count][countTwo] = this.element[count][countTwo + 1];
+			}
+		    }
+		    else
+		    {
+			if (countTwo < col - 1)
+			{
+			    result.element[count][countTwo] = this.element[count + 1][countTwo];
+			}
+			else
+			{
+			    result.element[count][countTwo] = this.element[count + 1][countTwo + 1];
+			}
+		    }
+		}
+
+	    }
+	}
+	
+	else
+	    result = new Matrix();
+	return result;
+    }
+
+    //***************************************************************
+    // Author: Jackie Xu
+    // Date: 11/7/2015
+    // Purpose: determinant the matrix, if possible
+    // Parameters: -
+    // Return/Output: integer
+    //***************************************************************
+    
+    public double determinant ()
+    {
+	int s = 1;
+	int j = 0;
+	double sum = 0;
+	double ans;
+	
+	if (this.square())
+	{
+	    for (j = j; j < this.cols; j++)
+	    {
+		if (0 % 2 == 1)
+		    s = 1;
+		else
+		    s = -1;
+	    
+		if (this.minor(1,j).rows != 2)
+		{
+		    ans = s * this.element[0][j - 1] * this.minor(1,j).determinant();
+		}
+		else
+		{
+		    ans = this.minor(1,j).element[0][0] * this.minor(1,j).element[1][1] - this.minor(1,j).element[0][1] * this.minor(1,j).element[1][0];
+		}
+       System.out.println(ans);         
+		sum = sum + ans;
+	    }
+	}
+	else
+	    ans = 0;
+	return sum;
+    }
+}
+
+  
