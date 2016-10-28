@@ -45,6 +45,11 @@ public class Geometry
 		    dataBase [count] = new Square("Black",1,0);
 		    dataBase[count].get(c);
 		}
+                else if (category == 'z')
+                {
+                    dataBase [count] = new Trapezoid("Black",1,0);
+                    dataBase[count].get(c);
+                }
 		else if (category == 't')
 		{
 		    dataBase [count] = new Triangle("Black",1,3,4,5);
@@ -336,6 +341,63 @@ class Circle extends D2Shape
     }
 }
 
+//***************************************************************
+// Author: Annie Zhou
+// Date: 10/28/2016
+// Purpose/Description: A concrete class that can become a trapezoid
+// Fields:
+//      top (double) - top side of the trapezoid
+//      base (double) - bottom side of the trapezoid
+//      height (double) - height of the trapezoid
+//      all fields from D2Shape
+// Methods:
+/*      get - gets the data of the trapezoid from user
+	put - prints out the characteristics of the shape
+	area - returns the area of the trapezoid
+
+*/
+//***************************************************************
+
+class Trapezoid extends D2Shape
+{
+   protected double base;
+   protected double top;
+   protected double height;
+   
+   public Trapezoid (String colour, double size, double base, double top, double height){
+       super (colour, size);
+       this.base = base;
+       this.top = top;
+       this.height = height;
+   }
+   
+   public void get (Console c){
+       super.get(c);
+       c.print("Please enter the length of the top side of the trapezoid");
+       this.top = Math.abs(c.readDouble());
+       
+       c.print("Please enter the length of the base of the trapezoid");
+       this.base = Math.abs(c.readDouble());
+       
+        c.print("Please enter the length of the height of the trapezoid");
+       this.height = Math.abs(c.readDouble());
+   }
+   
+   public void put (Console c){
+       c.println("Shape: Trapezoid");
+       c.println("Colour:" + this.colour);
+       c.println("Size:" + this.size);
+       c.println("Base:" + this.base);
+       c.println("Top:" + this.top);
+       c.println("Height:" + this.height);
+       c.println("Area:" + this.area());
+   }
+   
+   public double area (){
+       return ((this.top + this.base) * this.height)/2;
+   }
+   
+}        
 
 //***************************************************************
 // Author: Jackie Xu
@@ -382,11 +444,10 @@ class Square extends D2Shape
     public void get (Console c)
     {
 	super.get(c);
-	c.print ("Please enter the size length of the square: ");
+	c.print ("Please enter the side length of the square: "); //fixed spelling mistake by Annie :3
 	this.width = Math.abs (c.readDouble ());
     }
-
-
+    
     //***************************************************************
     // Author: Jackie Xu
     // Date: 11/16/2015
@@ -403,7 +464,6 @@ class Square extends D2Shape
 	c.println("Width: " + this.width);
 	c.println("Perimeter: " + this.perimeter());
 	c.println("Area: " + this.area());
-	
     }
 
 
