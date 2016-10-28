@@ -806,6 +806,104 @@ abstract class D3Shape extends Shape
     abstract double surfaceArea ();
     abstract double volume ();
 }
+//***************************************************************
+// Author: Mohit Patel
+// Date: 28/10/2016
+// Purpose/Description: A concrete class that can become a regular decagon
+// Fields:
+//      side (double) - side length of the decagon
+//      all fields from D2Shape
+// Methods:
+/*      get - gets the data of the decagon from user
+	put - prints out the characteristics of the shape
+	perimeter - returns the perimeter of the decagon
+	area - returns the area of the decagon
+*/
+//***************************************************************
+
+class RegDecagon extends D2Shape
+{
+    protected double side;
+
+    //***************************************************************
+    // Author: Mohit Patel
+    // Date: 28/10/2016
+    // Purpose: Constructor that creates a regular decagon object
+    // Parameters: colour (string), size (double), side (double)
+    // Return/Output: -
+    //***************************************************************
+
+    public RegDecagon (String colour, double size, double side)
+    {
+	super (colour, size);
+	this.side = side;
+    }
+
+
+    //***************************************************************
+    // Author: Mohit Patel
+    // Date: 28/10/2016
+    // Purpose: gets the information of the decagon needed from the user
+    // Parameters: Input Console
+    // Return/Output: -
+    //***************************************************************
+
+    public void get (Console c)
+    {
+	super.get(c);
+	c.print ("Please enter the size length of the regular decagon: ");
+	this.side = Math.abs (c.readDouble ());
+    }
+
+
+    //***************************************************************
+    // Author: Mohit Patel
+    // Date: 28/10/2016
+    // Purpose: prints out the characteristics of the decagon
+    // Parameters: Console c
+    // Return/Output: -
+    //***************************************************************
+
+    public void put (Console c)
+    {
+	c.println("Shape: Regular Decagon");
+	c.println("Colour: " + this.colour);
+	c.println("Size: " + this.size);
+	c.println("Side: " + this.size);
+	c.println("Perimeter: " + this.perimeter());
+	c.println("Area: " + this.area());
+	
+    }
+
+    //***************************************************************
+    // Author: Mohit Patel
+    // Date: 28/10/2016
+    // Purpose: Calculates the perimeter of the decagon
+    // Parameters: -
+    // Return/Output: perimeter (double)
+    //***************************************************************
+
+    public double perimeter ()
+    {
+	return 10 * this.side;
+    }
+
+
+    //***************************************************************
+    // Author: Mohit Patel
+    // Date: 28/10/2016
+    // Purpose: Calculates the area of the decagon
+    // Parameters: -
+    // Return/Output: area (double)
+    //***************************************************************
+
+    public double area ()
+    {
+        double area;
+	area = (5/2)*this.width*this.width*Math.sqrt(5+2*Math.sqrt(5));
+	return area;
+    }
+}
 
 //***************************************************************
 // Author: Jackie Xu
